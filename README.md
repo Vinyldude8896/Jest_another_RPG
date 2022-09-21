@@ -1,7 +1,12 @@
 # Jest_another_RPG
 
-### This is a command line app that is an ROG game that will allow you to battle several enemies and choose to attack or use a potion. Potions available are agility, strength and health.
-### Examples of data input are: Name, use a potion or attack.
+### User Story
+As a user I would like a command line aplication game. This should be a battle simulator that allows me to battle through several rounds, taking a potion of choice in between each round. This application should keep track of my potions, health, strength and agility. Each battle should display my health and the enemie's health after each attack.
+### Features
+This is a command line application that is a battle siumulation game
+This app will keep track of player's potions, health, strength and agility.
+During each battle sequence the player's health and the enemy's health are tracked and displayed.
+At the end of each battle the player will have the option to use any remaining potions. 
 
 
 ### badges
@@ -17,13 +22,29 @@
 - [Questions](#questions)
 
 ### Installation
-To use this app, you would have to clone the github repo and run it from the command line.
+1. Please clone the github repo here :
+https://github.com/Vinyldude8896/Jest_another_RPG
+2. Run npm install to install the dependecies.
+3. Then at the root folder, run npm start
+4. You should then be prompted for input to start the game
+
 
 
 ### Contribution Guidelines
-N/A as of yet
+Current contributers:
+Kevin Reid : https://github.com/Vinyldude8896 <br />
+
+
 ### Testing
-There are 3 testing files that were used. Enemy.test.js, Player.test.js, Potion.test.js 
+To test this app:<br />
+1. Please clone the github repo here :
+https://github.com/Vinyldude8896/Jest_another_RPG
+2. Run npm install to install the dependecies.
+3. Then at the root folder, run npm start
+4. You should then be prompted for input to start the game
+5. Enter your name
+6. Cycle through the battles
+7. After each battle try using a potion
 ### Questions
     email address : kevinnivek@me.com
     - additional instructions 
